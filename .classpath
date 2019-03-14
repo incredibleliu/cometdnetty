@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bayeux-api-2.4.3.jar"/>
+	<classpathentry kind="lib" path="cometd-java-common-2.4.3.jar"/>
+	<classpathentry kind="lib" path="cometd-java-server-2.4.3.jar"/>
+	<classpathentry kind="lib" path="cometd-websocket-jetty-2.4.3.jar"/>
+	<classpathentry kind="lib" path="jetty-ajp-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-annotations-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-client-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-continuation-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-deploy-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-http-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-io-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-jmx-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-jndi-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-overlay-deployer-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-plus-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-policy-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-rewrite-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-security-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-server-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-servlet-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-servlets-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-util-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-webapp-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-websocket-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="jetty-xml-8.1.21.v20160908.jar"/>
+	<classpathentry kind="lib" path="servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="slf4j-simple-1.7.26.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

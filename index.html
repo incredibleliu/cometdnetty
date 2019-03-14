@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<script type="text/javascript" src="scripts/faye-browser.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			var client = new Faye.Client("http://127.0.0.1:8080/bayeux");
+			
+			client.subscribe("/data", function(msg){
+				console.log(msg);
+			});
+			
+			client.publish("/data", {hello: "from myself?"});
+		</script>
+	</body>
+</html>
